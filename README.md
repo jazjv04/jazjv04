@@ -19,7 +19,7 @@
 ---
 
 ### 💻 Tech Stack
-<div align="center">
+
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -33,10 +33,9 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
-<a href="http://www.github.com/leivadev"><img src="https://github-readme-streak-stats.herokuapp.com/?user=leivadev&stroke=ffffff&background=1c1917&ring=f51dc6&fire=f51dc6&currStreakNum=ffffff&currStreakLabel=22c55e&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/jazjv04"><img src="https://github-readme-streak-stats.herokuapp.com/?user=jazjv04&stroke=ffffff&background=1c1917&ring=f51dc6&fire=f51dc6&currStreakNum=ffffff&currStreakLabel=22c55e&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="https://github.com/leivadev" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leivadev&langs_count=10&title_color=f51dc6&text_color=ffffff&icon_color=22c55e&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-</div>
+<a href="https://github.com/jazjv04" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jazjv04&langs_count=10&title_color=f51dc6&text_color=ffffff&icon_color=f51dc6e&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 ---
 
