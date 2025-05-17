@@ -2,12 +2,12 @@
 <h3 align="center">Full-Stack Developer | UX/UI Designer | Software Engineer Student</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22C55E&center=true&vCenter=true&width=435&lines=Code+with+purpose;Design+with+users+in+mind;Build+beautiful+experiences" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=f51dc6&center=true&vCenter=true&width=435&lines=Code+with+purpose;Design+with+users+in+mind;Build+beautiful+experiences" alt="Typing SVG" />
 </p>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=jazjv04&color=f51dc6&style=flat-square" alt="Profile views"/>
-  <img src="https://img.shields.io/badge/From-Panama-005C84?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA1MTIgNTEyIj48cGF0aCBmaWxsPSIjRkZDMTAwIiBkPSJNMjU2IDBDMTE0LjYgMCAwIDExNC42IDAgMjU2czExNC42IDI1NiAyNTYgMjU2IDI1Ni0xMTQuNiAyNTYtMjU2UzM5Ny40IDAgMjU2IDB6Ii8+PHBhdGggZmlsbD0iIzAwNUM4NCIgZD0iTTI1NiA1MTJjLTYxLjkgMC0xMTguNS0yNC44LTE1OS44LTY1LjJDMjU2IDQ0Ni44IDI1NiA0NDYuOCAy1NiA0NDYuOHMwLS4xIDAtLjFjNDEuMyA0MC40IDk3LjkgNjUuMiAxNTkuOCA2NS4yIDE0MS40IDAgMjU2LTExNC42IDI1Ni0yNTZTMzk3LjQgMCAyNTYgMHoiLz48cGF0aCBmaWxsPSIjRkZDMTAwIiBkPSJNMjU2IDUxMmMtNjEuOSAwLTExOC41LTI0LjgtMTU5LjgtNjUuMiA0MS4zLTQwLjQgOTcuOS02NS4yIDE1OS44LTY1LjIgMTQxLjQgMCAyNTYgMTE0LjYgMjU2IDI1NiAwIDYxLjktMjQuOCAxMTguNS02NS4yIDE1OS44LTQwLjQtNDEuMy05Ny45LTY1LjItMTU5LjgtNjUuMnoiLz48L3N2Zz4=" alt="From Panama"/>
+  <img src="https://img.shields.io/badge/From-Panama-f51dc6?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA1MTIgNTEyIj48cGF0aCBmaWxsPSIjRkZDMTAwIiBkPSJNMjU2IDBDMTE0LjYgMCAwIDExNC42IDAgMjU2czExNC42IDI1NiAyNTYgMjU2IDI1Ni0xMTQuNiAyNTYtMjU2UzM5Ny40IDAgMjU2IDB6Ii8+PHBhdGggZmlsbD0iIzAwNUM4NCIgZD0iTTI1NiA1MTJjLTYxLjkgMC0xMTguNS0yNC44LTE1OS44LTY1LjJDMjU2IDQ0Ni44IDI1NiA0NDYuOCAy1NiA0NDYuOHMwLS4xIDAtLjFjNDEuMyA0MC40IDk3LjkgNjUuMiAxNTkuOCA2NS4yIDE0MS40IDAgMjU2LTExNC42IDI1Ni0yNTZTMzk3LjQgMCAyNTYgMHoiLz48cGF0aCBmaWxsPSIjRkZDMTAwIiBkPSJNMjU2IDUxMmMtNjEuOSAwLTExOC41LTI0LjgtMTU5LjgtNjUuMiA0MS4zLTQwLjQgOTcuOS02NS4yIDE1OS44LTY1LjIgMTQxLjQgMCAyNTYgMTE0LjYgMjU2IDI1NiAwIDYxLjktMjQuOCAxMTguNS02NS4yIDE1OS44LTQwLjQtNDEuMy05Ny45LTY1LjItMTU5LjgtNjUuMnoiLz48L3N2Zz4=" alt="From Panama"/>
 </div>
 
 ---
