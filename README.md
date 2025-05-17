@@ -33,9 +33,11 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
-<a href="http://www.github.com/jazjv04"><img src="https://github-readme-streak-stats.herokuapp.com/?user=jazjv04&stroke=ffffff&background=1c1917&ring=f51dc6&fire=f51dc6&currStreakNum=ffffff&currStreakLabel=22c55e&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/jazjv04"><img src="https://github-readme-streak-stats.herokuapp.com/?user=jazjv04&stroke=f51dc6&background=00000000&ring=f51dc6&fire=f51dc6&currStreakNum=ffffff&currStreakLabel=f51dc6&sideNums=f51dc6&sideLabels=f51dc6&dates=f51dc6&border=f51dc6&border_radius=10" width="49%" alt="GitHub Streak" />
+</a>
 
-<a href="https://github.com/jazjv04" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jazjv04&langs_count=10&title_color=f51dc6&text_color=ffffff&icon_color=f51dc6e&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/jazjv04" align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jazjv04&langs_count=10&title_color=f51dc6&text_color=f51dc6&icon_color=f51dc6&bg_color=00000000&hide_border=false&border_color=f51dc6&locale=en&custom_title=✨+Top+Languages+💖&layout=compact&border_radius=10" width="49%" alt="Top Languages" />
+</a>
 
 ---
 
